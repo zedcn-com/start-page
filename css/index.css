@@ -1,0 +1,24 @@
+body,
+html {
+    background-color: #333333;
+    font-family: 'Segoe UI', 'Microsoft YaHei', 微软雅黑, sans-serif;
+    display: grid;
+    height: 100%;
+}
+
+.center {
+    margin: auto;
+}
+
+.full_width {
+    width: 100%
+}
+
+.input_search {
+    height: 2.4rem;
+    font-size: 1.1rem;
+    color: #e6e6e6;
+    border: none;
+    width: 100%;
+    background: #292929;
+}
